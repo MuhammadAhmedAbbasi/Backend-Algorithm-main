@@ -1,0 +1,20 @@
+,Case 1: USING FFT TO EXTRACT FEATURES( Trail Length =30),,,
+,,,,
+Selected Features Of FFT,,,,Accuracy
+128 (64 each channel,,,,80
+200 (100 Each channel),,,,81
+100(50 Each Channel),,,,82.5
+40 (20 Each Channel),,,,80
+,,,,
+,,,,
+,,,,
+,Case 2: USING FFT TO EXTRACT FEATURES( Trail Length =20),,,
+Selected Features Of FFT,,,,Accuracy
+128 (64 each channel,,,,61
+200 (100 Each channel),,,,61
+100(50 Each Channel),,,,58
+40 (20 Each Channel),,,,61.2
+,,,,
+,,,,
+,,,,
+,,Error: The Final Deviation is around (+- 5%),,
